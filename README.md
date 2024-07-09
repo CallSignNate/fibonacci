@@ -1,2 +1,2 @@
 # fibonacci
-[![Build Status](http://localhost:8080/buildStatus/icon?job=fibonacci)](http://localhost:8080/job/fibonacci/)
+[![Build Status](https://56ee-86-101-78-203.ngrok-free.app/buildStatus/icon?job=fibonacci)](https://56ee-86-101-78-203.ngrok-free.app/job/fibonacci/)
